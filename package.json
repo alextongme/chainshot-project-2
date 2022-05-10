@@ -1,0 +1,13 @@
+{
+  "name": "chainshot-project-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "jayson": "^3.6.6"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
